@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 *.gem
 .bundle
 .sass-cache
 _site
+=======
+_site
+.sass-cache
+.directory
+Thumbs.db
+_drafts
+.ruby-version
+>>>>>>> a8e7041df8e8fc4c0c55eb9901346394af19a0df
 Gemfile.lock
